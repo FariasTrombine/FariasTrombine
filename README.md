@@ -1,8 +1,8 @@
-<h2> Oi, me chamo Guilherme</h2>
+<h2> Olá, me chamo Guilherme</h2>
 
-- 🎓 Cursando Analise de Desenvolvimento de Sistemas - Uninove  
-- 💻 Facinado por programação, por softwares e futuro desenvolvendor  
-- 🚀 Estudante da plataforma Alura
+-🎓 Cursando Análise e Desenvolvimento de Sistemas - Uninove
+-💻 Apaixonado por programação e desenvolvimento de software
+-🚀 Em formação para me tornar desenvolvedor - Plataforma Alura
 
 <h2>Linguagens e Ferramentas</h2>
 
