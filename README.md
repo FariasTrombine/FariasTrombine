@@ -1,9 +1,10 @@
 <h2> Olá, me chamo Guilherme</h2>
 
--🎓 Cursando Análise e Desenvolvimento de Sistemas - Uninove
--💻 Apaixonado por programação e desenvolvimento de software
--🚀 Em formação para me tornar desenvolvedor - Plataforma Alura
-
+<ul>
+  <li>🎓 Cursando Análise e Desenvolvimento de Sistemas - Uninove</li>
+  <li>💻 Apaixonado por programação e desenvolvimento de software</li>
+  <li>🚀 Em formação para me tornar desenvolvedor - Plataforma Alura</li>
+</ul>
 <h2>Linguagens e Ferramentas</h2>
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  width="54" height="54"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" widht="54" height="54" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" widht="54" height="54"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" widht="54" height="54" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" widht="53" height="53" /> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" widht="54" height="54" />
